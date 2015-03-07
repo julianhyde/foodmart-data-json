@@ -1,0 +1,110 @@
+{"region_id":0,"sales_city":"None","sales_state_province":"None","sales_district":"No District","sales_region":"No Region","sales_country":"No Country","sales_district_id":0}
+{"region_id":1,"sales_city":"San Francisco","sales_state_province":"CA","sales_district":"San Francisco","sales_region":"Central West","sales_country":"USA","sales_district_id":123}
+{"region_id":2,"sales_city":"Mexico City","sales_state_province":"DF","sales_district":"Mexico City","sales_region":"Mexico Central","sales_country":"Mexico","sales_district_id":118}
+{"region_id":3,"sales_city":"Los Angeles","sales_state_province":"CA","sales_district":"Los Angeles","sales_region":"South West","sales_country":"USA","sales_district_id":116}
+{"region_id":4,"sales_city":"Guadalajara","sales_state_province":"Jalisco","sales_district":"Guadalajara","sales_region":"Mexico West","sales_country":"Mexico","sales_district_id":114}
+{"region_id":5,"sales_city":"Vancouver","sales_state_province":"BC","sales_district":"Vancouver","sales_region":"Canada West","sales_country":"Canada","sales_district_id":128}
+{"region_id":6,"sales_city":"Victoria","sales_state_province":"BC","sales_district":"Victoria","sales_region":"Canada West","sales_country":"Canada","sales_district_id":129}
+{"region_id":7,"sales_city":"San Diego","sales_state_province":"CA","sales_district":"San Diego","sales_region":"South West","sales_country":"USA","sales_district_id":133}
+{"region_id":8,"sales_city":"Coronado","sales_state_province":"CA","sales_district":"San Diego","sales_region":"South West","sales_country":"USA","sales_district_id":133}
+{"region_id":9,"sales_city":"National City","sales_state_province":"CA","sales_district":"San Diego","sales_region":"South West","sales_country":"USA","sales_district_id":133}
+{"region_id":10,"sales_city":"Lincoln Acres","sales_state_province":"CA","sales_district":"San Diego","sales_region":"South West","sales_country":"USA","sales_district_id":133}
+{"region_id":11,"sales_city":"La Mesa","sales_state_province":"CA","sales_district":"San Diego","sales_region":"South West","sales_country":"USA","sales_district_id":133}
+{"region_id":12,"sales_city":"Lemon Grove","sales_state_province":"CA","sales_district":"San Diego","sales_region":"South West","sales_country":"USA","sales_district_id":133}
+{"region_id":13,"sales_city":"Chula Vista","sales_state_province":"CA","sales_district":"San Diego","sales_region":"South West","sales_country":"USA","sales_district_id":133}
+{"region_id":14,"sales_city":"Imperial Beach","sales_state_province":"CA","sales_district":"San Diego","sales_region":"South West","sales_country":"USA","sales_district_id":133}
+{"region_id":15,"sales_city":"Spring Valley","sales_state_province":"CA","sales_district":"San Diego","sales_region":"South West","sales_country":"USA","sales_district_id":133}
+{"region_id":16,"sales_city":"El Cajon","sales_state_province":"CA","sales_district":"San Diego","sales_region":"South West","sales_country":"USA","sales_district_id":133}
+{"region_id":17,"sales_city":"Grossmont","sales_state_province":"CA","sales_district":"San Diego","sales_region":"South West","sales_country":"USA","sales_district_id":133}
+{"region_id":18,"sales_city":"Seattle","sales_state_province":"WA","sales_district":"Seattle","sales_region":"North West","sales_country":"USA","sales_district_id":124}
+{"region_id":19,"sales_city":"Redmond","sales_state_province":"WA","sales_district":"Seattle","sales_region":"North West","sales_country":"USA","sales_district_id":124}
+{"region_id":20,"sales_city":"Ballard","sales_state_province":"WA","sales_district":"Seattle","sales_region":"North West","sales_country":"USA","sales_district_id":124}
+{"region_id":21,"sales_city":"Issaquah","sales_state_province":"WA","sales_district":"Seattle","sales_region":"North West","sales_country":"USA","sales_district_id":124}
+{"region_id":22,"sales_city":"Portland","sales_state_province":"OR","sales_district":"Portland","sales_region":"North West","sales_country":"USA","sales_district_id":120}
+{"region_id":23,"sales_city":"Salem","sales_state_province":"OR","sales_district":"Salem","sales_region":"North West","sales_country":"USA","sales_district_id":122}
+{"region_id":24,"sales_city":"Orizaba","sales_state_province":"Veracruz","sales_district":"Orizaba","sales_region":"Mexico Central","sales_country":"Mexico","sales_district_id":119}
+{"region_id":25,"sales_city":"Hidalgo","sales_state_province":"Zacatecas","sales_district":"Hidalgo","sales_region":"Mexico Central","sales_country":"Mexico","sales_district_id":115}
+{"region_id":26,"sales_city":"Merida","sales_state_province":"Yucatan","sales_district":"Marida","sales_region":"Mexico South","sales_country":"Mexico","sales_district_id":117}
+{"region_id":27,"sales_city":"Camacho","sales_state_province":"Zacatecas","sales_district":"Camacho","sales_region":"Mexico Central","sales_country":"Mexico","sales_district_id":113}
+{"region_id":28,"sales_city":"Acapulco","sales_state_province":"Guerrero","sales_district":"Acapulco","sales_region":"Mexico West","sales_country":"Mexico","sales_district_id":110}
+{"region_id":29,"sales_city":"La Cruz","sales_state_province":"Sinaloa","sales_district":"Acapulco","sales_region":"Mexico West","sales_country":"Mexico","sales_district_id":110}
+{"region_id":30,"sales_city":"Tlaxiaco","sales_state_province":"Oaxaca","sales_district":"Tlaxiaco","sales_region":"Mexico South","sales_country":"Mexico","sales_district_id":127}
+{"region_id":31,"sales_city":"Daly City","sales_state_province":"CA","sales_district":"San Francisco","sales_region":"Central West","sales_country":"USA","sales_district_id":123}
+{"region_id":32,"sales_city":"Colma","sales_state_province":"CA","sales_district":"San Francisco","sales_region":"Central West","sales_country":"USA","sales_district_id":123}
+{"region_id":33,"sales_city":"La Jolla","sales_state_province":"CA","sales_district":"San Diego","sales_region":"South West","sales_country":"USA","sales_district_id":133}
+{"region_id":34,"sales_city":"Fremont","sales_state_province":"CA","sales_district":"San Francisco","sales_region":"Central West","sales_country":"USA","sales_district_id":123}
+{"region_id":35,"sales_city":"Richmond","sales_state_province":"CA","sales_district":"San Francisco","sales_region":"Central West","sales_country":"USA","sales_district_id":123}
+{"region_id":36,"sales_city":"Berkeley","sales_state_province":"CA","sales_district":"San Francisco","sales_region":"Central West","sales_country":"USA","sales_district_id":123}
+{"region_id":37,"sales_city":"Oakland","sales_state_province":"CA","sales_district":"San Francisco","sales_region":"Central West","sales_country":"USA","sales_district_id":123}
+{"region_id":38,"sales_city":"Mill Valley","sales_state_province":"CA","sales_district":"San Francisco","sales_region":"Central West","sales_country":"USA","sales_district_id":123}
+{"region_id":39,"sales_city":"San Jose","sales_state_province":"CA","sales_district":"San Francisco","sales_region":"Central West","sales_country":"USA","sales_district_id":123}
+{"region_id":40,"sales_city":"Santa Cruz","sales_state_province":"CA","sales_district":"San Francisco","sales_region":"Central West","sales_country":"USA","sales_district_id":123}
+{"region_id":41,"sales_city":"Palo Alto","sales_state_province":"CA","sales_district":"San Francisco","sales_region":"Central West","sales_country":"USA","sales_district_id":123}
+{"region_id":42,"sales_city":"Novato","sales_state_province":"CA","sales_district":"San Francisco","sales_region":"Central West","sales_country":"USA","sales_district_id":123}
+{"region_id":43,"sales_city":"Burlingame","sales_state_province":"CA","sales_district":"San Francisco","sales_region":"Central West","sales_country":"USA","sales_district_id":123}
+{"region_id":44,"sales_city":"San Carlos","sales_state_province":"CA","sales_district":"San Francisco","sales_region":"Central West","sales_country":"USA","sales_district_id":123}
+{"region_id":45,"sales_city":"Redwood City","sales_state_province":"CA","sales_district":"San Francisco","sales_region":"Central West","sales_country":"USA","sales_district_id":123}
+{"region_id":46,"sales_city":"Concord","sales_state_province":"CA","sales_district":"San Francisco","sales_region":"Central West","sales_country":"USA","sales_district_id":123}
+{"region_id":47,"sales_city":"Beverly Hills","sales_state_province":"CA","sales_district":"Los Angeles","sales_region":"South West","sales_country":"USA","sales_district_id":116}
+{"region_id":48,"sales_city":"Long Beach","sales_state_province":"CA","sales_district":"Los Angeles","sales_region":"South West","sales_country":"USA","sales_district_id":116}
+{"region_id":49,"sales_city":"Santa Monica","sales_state_province":"CA","sales_district":"Los Angeles","sales_region":"South West","sales_country":"USA","sales_district_id":116}
+{"region_id":50,"sales_city":"Altadena","sales_state_province":"CA","sales_district":"Los Angeles","sales_region":"South West","sales_country":"USA","sales_district_id":116}
+{"region_id":51,"sales_city":"Arcadia","sales_state_province":"CA","sales_district":"Los Angeles","sales_region":"South West","sales_country":"USA","sales_district_id":116}
+{"region_id":52,"sales_city":"San Gabriel","sales_state_province":"CA","sales_district":"Los Angeles","sales_region":"South West","sales_country":"USA","sales_district_id":116}
+{"region_id":53,"sales_city":"Burbank","sales_state_province":"CA","sales_district":"Los Angeles","sales_region":"South West","sales_country":"USA","sales_district_id":116}
+{"region_id":54,"sales_city":"Glendale","sales_state_province":"CA","sales_district":"Los Angeles","sales_region":"South West","sales_country":"USA","sales_district_id":116}
+{"region_id":55,"sales_city":"Bellflower","sales_state_province":"CA","sales_district":"Los Angeles","sales_region":"South West","sales_country":"USA","sales_district_id":116}
+{"region_id":56,"sales_city":"Lakewood","sales_state_province":"CA","sales_district":"Los Angeles","sales_region":"South West","sales_country":"USA","sales_district_id":116}
+{"region_id":57,"sales_city":"Torrance","sales_state_province":"CA","sales_district":"Los Angeles","sales_region":"South West","sales_country":"USA","sales_district_id":116}
+{"region_id":58,"sales_city":"Downey","sales_state_province":"CA","sales_district":"Los Angeles","sales_region":"South West","sales_country":"USA","sales_district_id":116}
+{"region_id":59,"sales_city":"Newport Beach","sales_state_province":"CA","sales_district":"Los Angeles","sales_region":"South West","sales_country":"USA","sales_district_id":116}
+{"region_id":60,"sales_city":"West Covina","sales_state_province":"CA","sales_district":"Los Angeles","sales_region":"South West","sales_country":"USA","sales_district_id":116}
+{"region_id":61,"sales_city":"Pomona","sales_state_province":"CA","sales_district":"Los Angeles","sales_region":"South West","sales_country":"USA","sales_district_id":116}
+{"region_id":62,"sales_city":"Woodland Hills","sales_state_province":"CA","sales_district":"Los Angeles","sales_region":"South West","sales_country":"USA","sales_district_id":116}
+{"region_id":63,"sales_city":"Kirkland","sales_state_province":"WA","sales_district":"Seattle","sales_region":"North West","sales_country":"USA","sales_district_id":124}
+{"region_id":64,"sales_city":"Lake Oswego","sales_state_province":"OR","sales_district":"Portland","sales_region":"North West","sales_country":"USA","sales_district_id":120}
+{"region_id":65,"sales_city":"Milwaukie","sales_state_province":"OR","sales_district":"Portland","sales_region":"North West","sales_country":"USA","sales_district_id":120}
+{"region_id":66,"sales_city":"W. Linn","sales_state_province":"OR","sales_district":"Portland","sales_region":"North West","sales_country":"USA","sales_district_id":120}
+{"region_id":67,"sales_city":"Beaverton","sales_state_province":"OR","sales_district":"Portland","sales_region":"North West","sales_country":"USA","sales_district_id":120}
+{"region_id":68,"sales_city":"Oregon City","sales_state_province":"OR","sales_district":"Portland","sales_region":"North West","sales_country":"USA","sales_district_id":120}
+{"region_id":69,"sales_city":"Woodburn","sales_state_province":"OR","sales_district":"Salem","sales_region":"North West","sales_country":"USA","sales_district_id":122}
+{"region_id":70,"sales_city":"Corvallis","sales_state_province":"OR","sales_district":"Salem","sales_region":"North West","sales_country":"USA","sales_district_id":122}
+{"region_id":71,"sales_city":"Albany","sales_state_province":"OR","sales_district":"Salem","sales_region":"North West","sales_country":"USA","sales_district_id":122}
+{"region_id":72,"sales_city":"Lebanon","sales_state_province":"OR","sales_district":"Salem","sales_region":"North West","sales_country":"USA","sales_district_id":122}
+{"region_id":73,"sales_city":"Renton","sales_state_province":"WA","sales_district":"Seattle","sales_region":"North West","sales_country":"USA","sales_district_id":124}
+{"region_id":74,"sales_city":"Burien","sales_state_province":"WA","sales_district":"Seattle","sales_region":"North West","sales_country":"USA","sales_district_id":124}
+{"region_id":75,"sales_city":"Lynnwood","sales_state_province":"WA","sales_district":"Seattle","sales_region":"North West","sales_country":"USA","sales_district_id":124}
+{"region_id":76,"sales_city":"Bremerton","sales_state_province":"WA","sales_district":"Bremerton","sales_region":"North West","sales_country":"USA","sales_district_id":112}
+{"region_id":77,"sales_city":"Port Orchard","sales_state_province":"WA","sales_district":"Bremerton","sales_region":"North West","sales_country":"USA","sales_district_id":112}
+{"region_id":78,"sales_city":"Bellingham","sales_state_province":"WA","sales_district":"Bellingham","sales_region":"North West","sales_country":"USA","sales_district_id":111}
+{"region_id":79,"sales_city":"Anacortes","sales_state_province":"WA","sales_district":"Bellingham","sales_region":"North West","sales_country":"USA","sales_district_id":111}
+{"region_id":80,"sales_city":"Sedro Woolley","sales_state_province":"WA","sales_district":"Bellingham","sales_region":"North West","sales_country":"USA","sales_district_id":111}
+{"region_id":81,"sales_city":"Everett","sales_state_province":"WA","sales_district":"Seattle","sales_region":"North West","sales_country":"USA","sales_district_id":124}
+{"region_id":82,"sales_city":"Marysville","sales_state_province":"WA","sales_district":"Seattle","sales_region":"North West","sales_country":"USA","sales_district_id":124}
+{"region_id":83,"sales_city":"Edmonds","sales_state_province":"WA","sales_district":"Seattle","sales_region":"North West","sales_country":"USA","sales_district_id":124}
+{"region_id":84,"sales_city":"Tacoma","sales_state_province":"WA","sales_district":"Tacoma","sales_region":"North West","sales_country":"USA","sales_district_id":126}
+{"region_id":85,"sales_city":"Olympia","sales_state_province":"WA","sales_district":"Tacoma","sales_region":"North West","sales_country":"USA","sales_district_id":126}
+{"region_id":86,"sales_city":"Puyallup","sales_state_province":"WA","sales_district":"Tacoma","sales_region":"North West","sales_country":"USA","sales_district_id":126}
+{"region_id":87,"sales_city":"Spokane","sales_state_province":"WA","sales_district":"Spokane","sales_region":"North West","sales_country":"USA","sales_district_id":125}
+{"region_id":88,"sales_city":"Walla Walla","sales_state_province":"WA","sales_district":"Walla Walla","sales_region":"North West","sales_country":"USA","sales_district_id":131}
+{"region_id":89,"sales_city":"Yakima","sales_state_province":"WA","sales_district":"Yakima","sales_region":"North West","sales_country":"USA","sales_district_id":132}
+{"region_id":90,"sales_city":"Richmond","sales_state_province":"BC","sales_district":"Vancouver","sales_region":"Canada West","sales_country":"Canada","sales_district_id":128}
+{"region_id":91,"sales_city":"Westminster","sales_state_province":"BC","sales_district":"Vancouver","sales_region":"Canada West","sales_country":"Canada","sales_district_id":128}
+{"region_id":92,"sales_city":"Burnaby","sales_state_province":"BC","sales_district":"Vancouver","sales_region":"Canada West","sales_country":"Canada","sales_district_id":128}
+{"region_id":93,"sales_city":"Haney","sales_state_province":"BC","sales_district":"Vancouver","sales_region":"Canada West","sales_country":"Canada","sales_district_id":128}
+{"region_id":94,"sales_city":"Langley","sales_state_province":"BC","sales_district":"Vancouver","sales_region":"Canada West","sales_country":"Canada","sales_district_id":128}
+{"region_id":95,"sales_city":"Newton","sales_state_province":"BC","sales_district":"Vancouver","sales_region":"Canada West","sales_country":"Canada","sales_district_id":128}
+{"region_id":96,"sales_city":"Ladner","sales_state_province":"BC","sales_district":"Vancouver","sales_region":"Canada West","sales_country":"Canada","sales_district_id":128}
+{"region_id":97,"sales_city":"N. Vancouver","sales_state_province":"BC","sales_district":"Vancouver","sales_region":"Canada West","sales_country":"Canada","sales_district_id":128}
+{"region_id":98,"sales_city":"Port Hammond","sales_state_province":"BC","sales_district":"Vancouver","sales_region":"Canada West","sales_country":"Canada","sales_district_id":128}
+{"region_id":99,"sales_city":"Oak Bay","sales_state_province":"BC","sales_district":"Victoria","sales_region":"Canada West","sales_country":"Canada","sales_district_id":129}
+{"region_id":100,"sales_city":"Royal Oak","sales_state_province":"BC","sales_district":"Victoria","sales_region":"Canada West","sales_country":"Canada","sales_district_id":129}
+{"region_id":101,"sales_city":"Sooke","sales_state_province":"BC","sales_district":"Victoria","sales_region":"Canada West","sales_country":"Canada","sales_district_id":129}
+{"region_id":102,"sales_city":"Langford","sales_state_province":"BC","sales_district":"Victoria","sales_region":"Canada West","sales_country":"Canada","sales_district_id":129}
+{"region_id":103,"sales_city":"Cliffside","sales_state_province":"BC","sales_district":"Victoria","sales_region":"Canada West","sales_country":"Canada","sales_district_id":129}
+{"region_id":104,"sales_city":"Metchosin","sales_state_province":"BC","sales_district":"Victoria","sales_region":"Canada West","sales_country":"Canada","sales_district_id":129}
+{"region_id":105,"sales_city":"Shawnee","sales_state_province":"BC","sales_district":"Victoria","sales_region":"Canada West","sales_country":"Canada","sales_district_id":129}
+{"region_id":106,"sales_city":"San Andres","sales_state_province":"DF","sales_district":"Mexico City","sales_region":"Mexico Central","sales_country":"Mexico","sales_district_id":118}
+{"region_id":107,"sales_city":"Tixapan","sales_state_province":"DF","sales_district":"Mexico City","sales_region":"Mexico Central","sales_country":"Mexico","sales_district_id":118}
+{"region_id":108,"sales_city":"Santa Anita","sales_state_province":"DF","sales_district":"Mexico City","sales_region":"Mexico Central","sales_country":"Mexico","sales_district_id":118}
+{"region_id":109,"sales_city":"Santa Fe","sales_state_province":"DF","sales_district":"Mexico City","sales_region":"Mexico Central","sales_country":"Mexico","sales_district_id":118}

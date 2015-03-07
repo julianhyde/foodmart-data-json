@@ -1,0 +1,110 @@
+{"product_class_id":1,"product_subcategory":"Nuts","product_category":"Specialty","product_department":"Produce","product_family":"Food"}
+{"product_class_id":2,"product_subcategory":"Shellfish","product_category":"Seafood","product_department":"Seafood","product_family":"Food"}
+{"product_class_id":3,"product_subcategory":"Canned Fruit","product_category":"Fruit","product_department":"Canned Products","product_family":"Food"}
+{"product_class_id":4,"product_subcategory":"Spices","product_category":"Baking Goods","product_department":"Baking Goods","product_family":"Food"}
+{"product_class_id":5,"product_subcategory":"Pasta","product_category":"Starchy Foods","product_department":"Starchy Foods","product_family":"Food"}
+{"product_class_id":6,"product_subcategory":"Yogurt","product_category":"Dairy","product_department":"Dairy","product_family":"Food"}
+{"product_class_id":7,"product_subcategory":"Coffee","product_category":"Dry Goods","product_department":"Baking Goods","product_family":"Drink"}
+{"product_class_id":8,"product_subcategory":"Deli Meats","product_category":"Meat","product_department":"Deli","product_family":"Food"}
+{"product_class_id":9,"product_subcategory":"Ice Cream","product_category":"Frozen Desserts","product_department":"Frozen Foods","product_family":"Food"}
+{"product_class_id":10,"product_subcategory":"TV Dinner","product_category":"Frozen Entrees","product_department":"Frozen Foods","product_family":"Food"}
+{"product_class_id":11,"product_subcategory":"Cheese","product_category":"Dairy","product_department":"Dairy","product_family":"Food"}
+{"product_class_id":12,"product_subcategory":"Chips","product_category":"Snack Foods","product_department":"Snack Foods","product_family":"Food"}
+{"product_class_id":13,"product_subcategory":"Fresh Vegetables","product_category":"Vegetables","product_department":"Produce","product_family":"Food"}
+{"product_class_id":14,"product_subcategory":"Sour Cream","product_category":"Dairy","product_department":"Dairy","product_family":"Food"}
+{"product_class_id":15,"product_subcategory":"Cottage Cheese","product_category":"Dairy","product_department":"Dairy","product_family":"Food"}
+{"product_class_id":16,"product_subcategory":"Deli Salads","product_category":"Side Dishes","product_department":"Deli","product_family":"Food"}
+{"product_class_id":17,"product_subcategory":"Dried Meat","product_category":"Snack Foods","product_department":"Snack Foods","product_family":"Food"}
+{"product_class_id":18,"product_subcategory":"Paper Wipes","product_category":"Paper Products","product_department":"Household","product_family":"Non-Consumable"}
+{"product_class_id":19,"product_subcategory":"Soda","product_category":"Carbonated Beverages","product_department":"Beverages","product_family":"Drink"}
+{"product_class_id":20,"product_subcategory":"Deodorizers","product_category":"Cleaning Supplies","product_department":"Household","product_family":"Non-Consumable"}
+{"product_class_id":21,"product_subcategory":"Cleaners","product_category":"Cleaning Supplies","product_department":"Household","product_family":"Non-Consumable"}
+{"product_class_id":22,"product_subcategory":"Cleaners","product_category":"Cleaning Supplies","product_department":"Household","product_family":"Non-Consumable"}
+{"product_class_id":23,"product_subcategory":"Shower Soap","product_category":"Cleaning Supplies","product_department":"Household","product_family":"Non-Consumable"}
+{"product_class_id":24,"product_subcategory":"Fresh Fish","product_category":"Seafood","product_department":"Seafood","product_family":"Food"}
+{"product_class_id":25,"product_subcategory":"Bagels","product_category":"Bread","product_department":"Baked Goods","product_family":"Food"}
+{"product_class_id":26,"product_subcategory":"Muffins","product_category":"Bread","product_department":"Baked Goods","product_family":"Food"}
+{"product_class_id":27,"product_subcategory":"Sliced Bread","product_category":"Bread","product_department":"Baked Goods","product_family":"Food"}
+{"product_class_id":28,"product_subcategory":"Pancake Mix","product_category":"Breakfast Foods","product_department":"Frozen Foods","product_family":"Food"}
+{"product_class_id":29,"product_subcategory":"Pancakes","product_category":"Breakfast Foods","product_department":"Frozen Foods","product_family":"Food"}
+{"product_class_id":30,"product_subcategory":"Juice","product_category":"Pure Juice Beverages","product_department":"Beverages","product_family":"Drink"}
+{"product_class_id":31,"product_subcategory":"Jelly","product_category":"Jams and Jellies","product_department":"Baking Goods","product_family":"Food"}
+{"product_class_id":32,"product_subcategory":"Jam","product_category":"Jams and Jellies","product_department":"Baking Goods","product_family":"Food"}
+{"product_class_id":33,"product_subcategory":"Preserves","product_category":"Jams and Jellies","product_department":"Baking Goods","product_family":"Food"}
+{"product_class_id":34,"product_subcategory":"Waffles","product_category":"Breakfast Foods","product_department":"Frozen Foods","product_family":"Food"}
+{"product_class_id":35,"product_subcategory":"Cereal","product_category":"Breakfast Foods","product_department":"Breakfast Foods","product_family":"Food"}
+{"product_class_id":36,"product_subcategory":"Chocolate Candy","product_category":"Candy","product_department":"Snacks","product_family":"Food"}
+{"product_class_id":37,"product_subcategory":"Gum","product_category":"Candy","product_department":"Snacks","product_family":"Food"}
+{"product_class_id":38,"product_subcategory":"Hard Candy","product_category":"Candy","product_department":"Snacks","product_family":"Food"}
+{"product_class_id":39,"product_subcategory":"Personal Hygiene","product_category":"Hygiene","product_department":"Health and Hygiene","product_family":"Non-Consumable"}
+{"product_class_id":40,"product_subcategory":"Pots and Pans","product_category":"Kitchen Products","product_department":"Household","product_family":"Non-Consumable"}
+{"product_class_id":41,"product_subcategory":"Tools","product_category":"Hardware","product_department":"Household","product_family":"Non-Consumable"}
+{"product_class_id":42,"product_subcategory":"Sponges","product_category":"Kitchen Products","product_department":"Household","product_family":"Non-Consumable"}
+{"product_class_id":43,"product_subcategory":"Beer","product_category":"Beer and Wine","product_department":"Alcoholic Beverages","product_family":"Drink"}
+{"product_class_id":44,"product_subcategory":"Wine","product_category":"Beer and Wine","product_department":"Alcoholic Beverages","product_family":"Drink"}
+{"product_class_id":45,"product_subcategory":"Cookies","product_category":"Snack Foods","product_department":"Snack Foods","product_family":"Food"}
+{"product_class_id":46,"product_subcategory":"Pretzels","product_category":"Snack Foods","product_department":"Snack Foods","product_family":"Food"}
+{"product_class_id":47,"product_subcategory":"Candles","product_category":"Candles","product_department":"Household","product_family":"Non-Consumable"}
+{"product_class_id":48,"product_subcategory":"Sauces","product_category":"Baking Goods","product_department":"Baking Goods","product_family":"Food"}
+{"product_class_id":49,"product_subcategory":"Cooking Oil","product_category":"Baking Goods","product_department":"Baking Goods","product_family":"Food"}
+{"product_class_id":50,"product_subcategory":"Sugar","product_category":"Baking Goods","product_department":"Baking Goods","product_family":"Food"}
+{"product_class_id":51,"product_subcategory":"Chocolate","product_category":"Hot Beverages","product_department":"Beverages","product_family":"Drink"}
+{"product_class_id":52,"product_subcategory":"Flavored Drinks","product_category":"Drinks","product_department":"Beverages","product_family":"Drink"}
+{"product_class_id":53,"product_subcategory":"Peanut Butter","product_category":"Jams and Jellies","product_department":"Baking Goods","product_family":"Food"}
+{"product_class_id":54,"product_subcategory":"Popcorn","product_category":"Snack Foods","product_department":"Snack Foods","product_family":"Food"}
+{"product_class_id":55,"product_subcategory":"Paper Dishes","product_category":"Paper Products","product_department":"Household","product_family":"Non-Consumable"}
+{"product_class_id":56,"product_subcategory":"Plastic Utensils","product_category":"Plastic Products","product_department":"Household","product_family":"Non-Consumable"}
+{"product_class_id":57,"product_subcategory":"Rice","product_category":"Starchy Foods","product_department":"Starchy Foods","product_family":"Food"}
+{"product_class_id":58,"product_subcategory":"Soup","product_category":"Canned Soup","product_department":"Canned Foods","product_family":"Food"}
+{"product_class_id":59,"product_subcategory":"Dehydrated Soup","product_category":"Packaged Soup","product_department":"Packaged Foods","product_family":"Food"}
+{"product_class_id":60,"product_subcategory":"Frozen Vegetables","product_category":"Vegetables","product_department":"Frozen Foods","product_family":"Food"}
+{"product_class_id":61,"product_subcategory":"Fresh Vegetables","product_category":"Vegetables","product_department":"Produce","product_family":"Food"}
+{"product_class_id":62,"product_subcategory":"Canned Vegetables","product_category":"Vegetables","product_department":"Canned Foods","product_family":"Food"}
+{"product_class_id":63,"product_subcategory":"French Fries","product_category":"Vegetables","product_department":"Frozen Foods","product_family":"Food"}
+{"product_class_id":64,"product_subcategory":"Pizza","product_category":"Pizza","product_department":"Frozen Foods","product_family":"Food"}
+{"product_class_id":65,"product_subcategory":"Hamburger","product_category":"Meat","product_department":"Meat","product_family":"Food"}
+{"product_class_id":66,"product_subcategory":"Eggs","product_category":"Eggs","product_department":"Eggs","product_family":"Food"}
+{"product_class_id":67,"product_subcategory":"Tofu","product_category":"Packaged Vegetables","product_department":"Produce","product_family":"Food"}
+{"product_class_id":68,"product_subcategory":"Dish Soap","product_category":"Bathroom Products","product_department":"Health and Hygiene","product_family":"Non-Consumable"}
+{"product_class_id":69,"product_subcategory":"Dishwasher Soap","product_category":"Bathroom Products","product_department":"Health and Hygiene","product_family":"Non-Consumable"}
+{"product_class_id":70,"product_subcategory":"Aspirin","product_category":"Pain Relievers","product_department":"Health and Hygiene","product_family":"Non-Consumable"}
+{"product_class_id":71,"product_subcategory":"Ibuprofen","product_category":"Pain Relievers","product_department":"Health and Hygiene","product_family":"Non-Consumable"}
+{"product_class_id":72,"product_subcategory":"Acetominifen","product_category":"Pain Relievers","product_department":"Health and Hygiene","product_family":"Non-Consumable"}
+{"product_class_id":73,"product_subcategory":"Nasal Sprays","product_category":"Decongestants","product_department":"Health and Hygiene","product_family":"Non-Consumable"}
+{"product_class_id":74,"product_subcategory":"Mouthwash","product_category":"Bathroom Products","product_department":"Health and Hygiene","product_family":"Non-Consumable"}
+{"product_class_id":75,"product_subcategory":"Cold Remedies","product_category":"Cold Remedies","product_department":"Health and Hygiene","product_family":"Non-Consumable"}
+{"product_class_id":76,"product_subcategory":"Milk","product_category":"Dairy","product_department":"Dairy","product_family":"Drink"}
+{"product_class_id":77,"product_subcategory":"Fresh Chicken","product_category":"Meat","product_department":"Deli","product_family":"Food"}
+{"product_class_id":78,"product_subcategory":"Conditioner","product_category":"Bathroom Products","product_department":"Health and Hygiene","product_family":"Non-Consumable"}
+{"product_class_id":79,"product_subcategory":"Shampoo","product_category":"Bathroom Products","product_department":"Health and Hygiene","product_family":"Non-Consumable"}
+{"product_class_id":80,"product_subcategory":"Lightbulbs","product_category":"Electrical","product_department":"Household","product_family":"Non-Consumable"}
+{"product_class_id":81,"product_subcategory":"Hot Dogs","product_category":"Meat","product_department":"Deli","product_family":"Food"}
+{"product_class_id":82,"product_subcategory":"Crackers","product_category":"Snack Foods","product_department":"Snack Foods","product_family":"Food"}
+{"product_class_id":83,"product_subcategory":"Dips","product_category":"Snack Foods","product_department":"Snack Foods","product_family":"Food"}
+{"product_class_id":84,"product_subcategory":"Donuts","product_category":"Snack Foods","product_department":"Snack Foods","product_family":"Food"}
+{"product_class_id":85,"product_subcategory":"Toilet Brushes","product_category":"Bathroom Products","product_department":"Household","product_family":"Non-Consumable"}
+{"product_class_id":86,"product_subcategory":"Pot Scrubbers","product_category":"Kitchen Products","product_department":"Household","product_family":"Non-Consumable"}
+{"product_class_id":87,"product_subcategory":"Pot Cleaners","product_category":"Kitchen Products","product_department":"Household","product_family":"Non-Consumable"}
+{"product_class_id":88,"product_subcategory":"Toothbrushes","product_category":"Bathroom Products","product_department":"Health and Hygiene","product_family":"Non-Consumable"}
+{"product_class_id":89,"product_subcategory":"Sunglasses","product_category":"Specialty","product_department":"Carousel","product_family":"Non-Consumable"}
+{"product_class_id":90,"product_subcategory":"Coffee","product_category":"Hot Beverages","product_department":"Beverages","product_family":"Drink"}
+{"product_class_id":91,"product_subcategory":"Bologna","product_category":"Meat","product_department":"Deli","product_family":"Food"}
+{"product_class_id":92,"product_subcategory":"Non-Alcoholic Wine","product_category":"Beer and Wine","product_department":"Alcoholic Beverages","product_family":"Drink"}
+{"product_class_id":93,"product_subcategory":"Tuna","product_category":"Canned Tuna","product_department":"Canned Foods","product_family":"Food"}
+{"product_class_id":94,"product_subcategory":"Shrimp","product_category":"Canned Shrimp","product_department":"Canned Foods","product_family":"Food"}
+{"product_class_id":95,"product_subcategory":"Anchovies","product_category":"Canned Anchovies","product_department":"Canned Foods","product_family":"Food"}
+{"product_class_id":96,"product_subcategory":"Clams","product_category":"Canned Clams","product_department":"Canned Foods","product_family":"Food"}
+{"product_class_id":97,"product_subcategory":"Oysters","product_category":"Canned Oysters","product_department":"Canned Foods","product_family":"Food"}
+{"product_class_id":98,"product_subcategory":"Sardines","product_category":"Canned Sardines","product_department":"Canned Foods","product_family":"Food"}
+{"product_class_id":99,"product_subcategory":"Fresh Fruit","product_category":"Fruit","product_department":"Produce","product_family":"Food"}
+{"product_class_id":100,"product_subcategory":"Frozen Chicken","product_category":"Meat","product_department":"Frozen Foods","product_family":"Food"}
+{"product_class_id":101,"product_subcategory":"Batteries","product_category":"Electrical","product_department":"Household","product_family":"Non-Consumable"}
+{"product_class_id":102,"product_subcategory":"Maps","product_category":"Miscellaneous","product_department":"Checkout","product_family":"Non-Consumable"}
+{"product_class_id":103,"product_subcategory":"Screwdrivers","product_category":"Hardware","product_department":"Checkout","product_family":"Non-Consumable"}
+{"product_class_id":104,"product_subcategory":"Sports Magazines","product_category":"Magazines","product_department":"Periodicals","product_family":"Non-Consumable"}
+{"product_class_id":105,"product_subcategory":"Home Magazines","product_category":"Magazines","product_department":"Periodicals","product_family":"Non-Consumable"}
+{"product_class_id":106,"product_subcategory":"Fashion Magazines","product_category":"Magazines","product_department":"Periodicals","product_family":"Non-Consumable"}
+{"product_class_id":107,"product_subcategory":"Computer Magazines","product_category":"Magazines","product_department":"Periodicals","product_family":"Non-Consumable"}
+{"product_class_id":108,"product_subcategory":"Auto Magazines","product_category":"Magazines","product_department":"Periodicals","product_family":"Non-Consumable"}
+{"product_class_id":109,"product_subcategory":"Dried Fruit","product_category":"Snack Foods","product_department":"Snack Foods","product_family":"Food"}
+{"product_class_id":110,"product_subcategory":"Popsicles","product_category":"Frozen Desserts","product_department":"Frozen Foods","product_family":"Food"}

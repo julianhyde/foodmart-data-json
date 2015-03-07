@@ -1,0 +1,4 @@
+{"category_id":"ACTUAL","category_parent":null,"category_description":"Current Year""s Actuals","category_rollup":null}
+{"category_id":"ADJUSTMENT","category_parent":null,"category_description":"Adjustment for Budget input","category_rollup":null}
+{"category_id":"BUDGET","category_parent":null,"category_description":"Current Year""s Budget","category_rollup":null}
+{"category_id":"FORECAST","category_parent":null,"category_description":"Forecast","category_rollup":null}

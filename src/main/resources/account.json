@@ -1,0 +1,11 @@
+{"account_id":1000,"account_parent":null,"account_description":"Assets","account_type":"Asset","account_rollup":"~","Custom_Members":null}
+{"account_id":2000,"account_parent":null,"account_description":"Liabilities","account_type":"Liability","account_rollup":"~","Custom_Members":null}
+{"account_id":3000,"account_parent":5000,"account_description":"Net Sales","account_type":"Income","account_rollup":"+","Custom_Members":null}
+{"account_id":3100,"account_parent":3000,"account_description":"Gross Sales","account_type":"Income","account_rollup":"+","Custom_Members":"LookUpCube("[Sales]","(Measures.[Store Sales],"+time.currentmember.UniqueName+","+ Store.currentmember.UniqueName+")")"}
+{"account_id":3200,"account_parent":3000,"account_description":"Cost of Goods Sold","account_type":"Income","account_rollup":"-","Custom_Members":null}
+{"account_id":4000,"account_parent":5000,"account_description":"Total Expense","account_type":"Expense","account_rollup":"-","Custom_Members":null}
+{"account_id":4100,"account_parent":4000,"account_description":"General & Administration","account_type":"Expense","account_rollup":"+","Custom_Members":null}
+{"account_id":4200,"account_parent":4000,"account_description":"Information Systems","account_type":"Expense","account_rollup":"+","Custom_Members":null}
+{"account_id":4300,"account_parent":4000,"account_description":"Marketing","account_type":"Expense","account_rollup":"+","Custom_Members":null}
+{"account_id":4400,"account_parent":4000,"account_description":"Lease","account_type":"Expense","account_rollup":"+","Custom_Members":null}
+{"account_id":5000,"account_parent":null,"account_description":"Net Income","account_type":"Income","account_rollup":"+","Custom_Members":null}

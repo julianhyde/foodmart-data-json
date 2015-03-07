@@ -1,0 +1,18 @@
+{"position_id":1,"position_title":"President","pay_type":"Monthly","min_scale":25000.0000,"max_scale":85000.0000,"management_role":"Senior Management"}
+{"position_id":6,"position_title":"HQ Information Systems","pay_type":"Monthly","min_scale":6700.0000,"max_scale":10000.0000,"management_role":"Middle Management"}
+{"position_id":7,"position_title":"HQ Marketing","pay_type":"Monthly","min_scale":5000.0000,"max_scale":8500.0000,"management_role":"Middle Management"}
+{"position_id":8,"position_title":"HQ Human Resources","pay_type":"Monthly","min_scale":5000.0000,"max_scale":6700.0000,"management_role":"Middle Management"}
+{"position_id":9,"position_title":"HQ Finance and Accounting","pay_type":"Monthly","min_scale":5000.0000,"max_scale":6700.0000,"management_role":"Middle Management"}
+{"position_id":11,"position_title":"Store Manager","pay_type":"Monthly","min_scale":8500.0000,"max_scale":17000.0000,"management_role":"Store Management"}
+{"position_id":14,"position_title":"Store Information Systems","pay_type":"Monthly","min_scale":6700.0000,"max_scale":10000.0000,"management_role":"Store Full Time Staff"}
+{"position_id":15,"position_title":"Store Permanent Checker","pay_type":"Monthly","min_scale":5000.0000,"max_scale":9000.0000,"management_role":"Store Full Time Staff"}
+{"position_id":16,"position_title":"Store Temporary Checker","pay_type":"Hourly","min_scale":20.0000,"max_scale":40.0000,"management_role":"Store Full Time Staff"}
+{"position_id":17,"position_title":"Store Permanent Stocker","pay_type":"Monthly","min_scale":3400.0000,"max_scale":6700.0000,"management_role":"Store Full Time Staff"}
+{"position_id":18,"position_title":"Store Temporary Stocker","pay_type":"Hourly","min_scale":20.0000,"max_scale":40.0000,"management_role":"Store Temp Staff"}
+{"position_id":19,"position_title":"Store Permanent Butcher","pay_type":"Monthly","min_scale":6700.0000,"max_scale":10000.0000,"management_role":"Store Full Time Staff"}
+{"position_id":2,"position_title":"VP Country Manager","pay_type":"Monthly","min_scale":20000.0000,"max_scale":40000.0000,"management_role":"Senior Management"}
+{"position_id":3,"position_title":"VP Information Systems","pay_type":"Monthly","min_scale":12500.0000,"max_scale":25000.0000,"management_role":"Senior Management"}
+{"position_id":4,"position_title":"VP Human Resources","pay_type":"Monthly","min_scale":10000.0000,"max_scale":20000.0000,"management_role":"Senior Management"}
+{"position_id":5,"position_title":"VP Finance","pay_type":"Monthly","min_scale":17000.0000,"max_scale":35000.0000,"management_role":"Senior Management"}
+{"position_id":12,"position_title":"Store Assistant Manager","pay_type":"Monthly","min_scale":6700.0000,"max_scale":12500.0000,"management_role":"Store Management"}
+{"position_id":13,"position_title":"Store Shift Supervisor","pay_type":"Monthly","min_scale":6700.0000,"max_scale":8500.0000,"management_role":"Store Management"}
