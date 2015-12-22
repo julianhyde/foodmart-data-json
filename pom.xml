@@ -62,10 +62,10 @@ limitations under the License.
   <mailingLists>
     <mailingList>
       <name>Apache Calcite developers list</name>
-      <subscribe>dev-subscribe@calcite.incubator.apache.org</subscribe>
-      <unsubscribe>dev-unsubscribe@calcite.incubator.apache.org</unsubscribe>
-      <post>dev@calcite.incubator.apache.org</post>
-      <archive>http://mail-archives.apache.org/mod_mbox/incubator-calcite-dev</archive>
+      <subscribe>dev-subscribe@calcite.apache.org</subscribe>
+      <unsubscribe>dev-unsubscribe@calcite.apache.org</unsubscribe>
+      <post>dev@calcite.apache.org</post>
+      <archive>http://mail-archives.apache.org/mod_mbox/calcite-dev</archive>
     </mailingList>
   </mailingLists>
 
@@ -73,6 +73,14 @@ limitations under the License.
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <top.dir>${project.basedir}</top.dir>
   </properties>
+
+  <distributionManagement>
+    <site>
+      <id>foodmart-data-json.website</id>
+      <name>Foodmart data JSON Website</name>
+      <url>file:/home/jhyde/web2/foodmart-data-json</url>
+    </site>
+  </distributionManagement>
 
   <issueManagement>
     <system>github</system>
