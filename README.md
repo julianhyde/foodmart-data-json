@@ -29,25 +29,35 @@ Get foodmart-data-json from
 
 ### Download and build
 
+Java version 8 or higher.
+
 ```bash
 $ git clone git://github.com/julianhyde/foodmart-data-json.git
 $ cd foodmart-data-json
-$ mvn install
+$ ./mvnw install
+```
+
+On Windows, the last line is
+
+```bash
+> mvnw install
 ```
 
 ## See also
 
 Similar data sets:
+* [chinook-data-hsqldb](https://github.com/julianhyde/chinook-data-hsqldb)
 * [foodmart-data-hsqldb](https://github.com/julianhyde/foodmart-data-hsqldb)
 * [foodmart-data-mysql](https://github.com/julianhyde/foodmart-data-mysql)
-* [scott-data-hsqldb](https://github.com/julianhyde/scott-data-hsqldb)
 * [foodmart-queries](https://github.com/julianhyde/foodmart-queries)
+* [scott-data-hsqldb](https://github.com/julianhyde/scott-data-hsqldb)
+* [steelwheels-data-hsqldb](https://github.com/julianhyde/steelwheels-data-hsqldb)
 
 ## More information
 
 * License: Apache License, Version 2.0
 * Project page: http://www.hydromatic.net/foodmart-data-json
-* Source code: http://github.com/julianhyde/foodmart-data-json
+* Source code: https://github.com/julianhyde/foodmart-data-json
 * Developers list:
   <a href="mailto:dev@calcite.apache.org">dev at calcite.apache.org</a>
   (<a href="http://mail-archives.apache.org/mod_mbox/calcite-dev/">archive</a>,
