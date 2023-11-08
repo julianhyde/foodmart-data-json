@@ -19,6 +19,7 @@ License.
 {% endcomment %}
 -->
 [![Build Status](https://github.com/julianhyde/foodmart-data-json/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/julianhyde/foodmart-data-json/actions?query=branch%3Amain)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/net.hydromatic/foodmart-data-json/badge.svg)](https://maven-badges.herokuapp.com/maven-central/net.hydromatic/foodmart-data-json)
 
 # foodmart-data-json
 Foodmart data set in JSON format
